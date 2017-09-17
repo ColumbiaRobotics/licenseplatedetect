@@ -1,5 +1,10 @@
 # Vehicle License Plate and Color Recognition using Computer Vision
 
+Project as part of Dr. John Wright's ELEN 4810 - Digital Signal Processing course at Columbia University. Note that all the code was written in MATLAB 2016b.
+
+For a better theoretical udnerstanding of the code, please refer the technical write-up:
+https://www.researchgate.net/publication/311886141_Vehicle_License_Plate_and_Color_Recognition_using_Computer_Vision
+
 Description:
 
 To view the complete project
